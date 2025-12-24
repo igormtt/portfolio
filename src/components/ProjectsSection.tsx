@@ -6,7 +6,7 @@ const projects = [
     title: "Weather App",
     description:
       "Aplicação de previsão do tempo com API de clima em tempo real",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/weather_app.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//weather_app.png",
     tags: ["React", "API", "CSS"],
     liveUrl: "https://weather-app-ivory-eight-25.vercel.app/",
     githubUrl: "https://github.com/igormtt/Weather-app",
@@ -14,7 +14,7 @@ const projects = [
   {
     title: "You Flix",
     description: "Plataforma de streaming de vídeos inspirada no YouTube",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/you_flix.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//you_flix.png",
     tags: ["React", "Node.js", "MongoDB"],
     liveUrl: "https://you-flix-app.vercel.app/",
     githubUrl: "https://github.com/igormtt/youFlix-app",
@@ -22,7 +22,7 @@ const projects = [
   {
     title: "To-do List",
     description: "Gerenciador de tarefas com funcionalidades CRUD completas",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/todo_list.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//todo_list.png",
     tags: ["React", "TypeScript", "LocalStorage"],
     liveUrl: "https://to-do-react-sooty.vercel.app/",
     githubUrl: "https://github.com/igormtt/todo-app",
@@ -30,7 +30,7 @@ const projects = [
   {
     title: "Ignite Coffee",
     description: "E-commerce de café com carrinho e checkout",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/igniteCoffee.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//igniteCoffee.png",
     tags: ["React", "TypeScript", "Styled Components"],
     liveUrl: "https://ignite-coffee-three.vercel.app/",
     githubUrl: "https://github.com/igormtt/ignite-coffee",
@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Ignite Feed",
     description: "Feed de posts com interações de likes e comentários",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/ignite-feed.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//ignite-feed.png",
     tags: ["React", "CSS Modules", "TypeScript"],
     liveUrl: "https://ignite-feed-psi-orcin.vercel.app/",
     githubUrl: "https://github.com/igormtt/ignite-feed",
@@ -46,7 +46,7 @@ const projects = [
   {
     title: "GitHub Blog",
     description: "Blog integrado com a API do GitHub para exibir issues",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/github-blog.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//github-blog.png",
     tags: ["React", "GitHub API", "TypeScript"],
     liveUrl: "https://github-blog-ee2p.vercel.app/",
     githubUrl: "https://github.com/igormtt/github-blog",
@@ -57,7 +57,7 @@ const freelancers = [
   {
     title: "Arantes & Resende",
     description: "Site institucional para escritório de advocacia",
-    image: "https://portfolio-v2-beryl-psi.vercel.app/Arantes&Resende.png",
+    image: "https://portfolioold-v2-beryl-psi.vercel.app//Arantes&Resende.png",
     tags: ["Next.js", "Tailwind", "SEO"],
     liveUrl: "https://arantesresende.com.br/",
   },
